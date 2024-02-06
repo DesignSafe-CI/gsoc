@@ -52,10 +52,7 @@ this [guide](CONTRIBUTING-mentors.md).
         </p>
      </td>
    </tr>
-</table>
 
-
-<table>
   <tr>
      <td>
        <img width="800px" src="https://tapis-project.org/static/tapis-project-org/img/org_logos/tapis-logo-navbar.png"/>
