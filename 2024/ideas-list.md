@@ -101,14 +101,17 @@ Interested participants are encouraged to:
 
 ### Mentors
 
-* Joe Stubbs
-* Smruti Padhy
+* [Joe Stubbs](https://github.com/joestubbs/)
+* [Smruti Padhy](https://github.com/smpadhy)
+
 
 ### Abstract
 
 As the number of users of a cloud system grows, reasoning about the set of access control policies governing their resources becomes increasingly difficult. Tools from Formal Methods, such as Satisfiability Modulo Theories (SMT) [1], provide techniques for automatically reasoning about entire collections of policies, but using these tools requires expertise. This project will build upon the CloudSec library and the Tapis API framework to develop an HTTP RESTful API and graphical interface for analyzing entire sets of Tapis security policies by nonexperts.
-Intensity 	Priority 	Involves 	Mentors
-{{ Easy to Moderate }} 	{{ Medium }} 	{{ Developing new REST API and GUI interface to tools for analyzing Tapis security policies }} 	{{ Joe Stubbs Smruti Padhy }}
+
+| **Intensity** | **Priority** | **Involves** | **Mentors** |
+| ------------- | ------------ | ------------- | ----------- |
+| Easy to Moderate (175 hours - duration) | High | Developing new REST API and GUI interface to tools for analyzing Tapis security policies. | [Joe Stubbs](https://github.com/joestubbs/) and [Smruti Padhy](https://github.com/smpadhy) |
 
 ### Project Duration
 
