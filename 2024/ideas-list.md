@@ -55,7 +55,7 @@ This project proposes an innovative approach to evaluate the physical properties
 
 | **Intensity** | **Priority** | **Involves** | **Mentors** |
 | ------------- | ------------ | ------------- | ----------- |
-| Moderate (350 hours - duration) | High | Integrating NeRF with Differentiable GNS for advanced simulations of physical phenomena. Developing and validating models for granular and fluid flows and material property evaluation with high fidelity. | [Krishna Kumar](https://github.com/kks32) and [Yongjin Choi](https://github.com/yjchoi1) |
+| Moderate (350 hours - duration) | High | Integrating NeRF with Differentiable GNS for advanced simulations of physical phenomena. Developing and validating models for granular and fluid flows and material property evaluation with high fidelity. | [Krishna Kumar](https://github.com/kks32), [Pedro Arduino](https://github.com/parduino) and [Yongjin Choi](https://github.com/yjchoi1) |
 
 ### Project duration
 
